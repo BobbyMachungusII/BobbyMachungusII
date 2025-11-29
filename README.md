@@ -1,4 +1,4 @@
-# Hi, I'm Luka Moulin! 👋
+# Hi, I'm Luka Alexandre Moulin! 👋
 
 I’m an IT student in my second year at IUT Robert Schuman, pursuing a BUT in Computer Science 💻. So far, I’ve had the opportunity to learn and work with:
 
