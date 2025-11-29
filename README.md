@@ -35,15 +35,11 @@ I've also been in a few different clubs, including Swimming, Basketball and Socc
 Outside of sports, I am a true gamer (the kind that doesn't shower). I've played many games, of course, of which my favorites would be:
 - Team Fortress 2 🥪
 - Red Dead Redemption 2 🤠
-- Detroit: Become Human 🤖
 - Blade & Sorcery ⚔
-- H3VR 🌭
-- Scrap Mechanic 🔧
-- Satisfactory 🏭
 - Fallout 4 ☢
 - The Elder Scrolls V: Skyrim 🧙‍♂️
 
-(Yes, there are a lot, and these are just my favorites!)
+(There are many more, of course, but these are the ones that I've probably played the most!)
 
 ## Projects
 
