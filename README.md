@@ -39,7 +39,7 @@ I've had the opportunity to work on a multitude of projects, which have allowed 
 
 ---
 
-**Sportipal** : A project back from high school where we had to design an app around the general theme of sports. We chose to design our app as a workout companion which could tell you what exercises to do depending on which muscles you want to work, and could even time how many pushups you could do in a minute using the built-in camera!
+**Sportipal** : A project back from high school where we had to design an app around the general theme of sports. We chose to design our app as a workout companion which could tell you what exercises to do depending on which muscles you want to work, and could even time how many pushups you could do in a minute using the built-in camera of your PC!
 
 ---
 
@@ -47,7 +47,7 @@ I've had the opportunity to work on a multitude of projects, which have allowed 
 
 ---
 
-**Firehouse** : A project where a small team and I had to design a Windows Forms application themed around a fire department, offering a multitude of services. Using an integrated database, the user could allocate firefighters to missions automatically based on their availability and skills, retrieve information on the different vehicles assigned to the various departments, and more!
+**Firehouse** : A project where a small team and I had to design a Windows Forms application themed around a fire department, offering a multitude of services. Using an integrated database, the user could allocate firefighters to missions automatically based on their availability and skills, retrieve the different vehicles assigned to the various departments, and more!
 
 ---
 
