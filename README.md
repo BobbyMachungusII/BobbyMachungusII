@@ -12,7 +12,7 @@ Across my studies, I've been able to learn a multitude of programming languages,
 
 I've also been able to use multiple different frameworks and software, such as:
 
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,godot,idea,java,laravel,linux,vscode,visualstudio,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,godot,idea,laravel,linux,vscode,visualstudio,vim)](https://skillicons.dev)
 
 Outside of coding, I am also a **fluent speaker and writer in both French and English**!
 
